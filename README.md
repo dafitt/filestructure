@@ -1,6 +1,6 @@
-# How to structure your personal files? 📁 📂 🗂️
+# How to structure your personal files 📁 📂 🗂️
 
-By the time I wished I had such a guide, so maybe it's of help to you.
+By the time I wished I had such a guide, so i hope this can be of help to you.
 
 ## Structure 🌳
 
@@ -108,7 +108,7 @@ These standard xdg folders are good for use as your "workspace". Here come your 
 /Archive
 ```
 
-Lastly, the "Archive" serves as your long-term memory storage for finished projects and large files. This folder should be a mount to some big hard drives that get backed up regularly. Mine is a ZFS RAID for example.
+Lastly, the "Archive" serves as your long-term memory storage. It also embodies the explained structure above, but trimmed down to only finished projects and large files, which you don't immediately need in time. This folder should be a mount to some big hard drives that get backed up regularly. Mine is a ZFS RAID for example.
 
 ---
 
